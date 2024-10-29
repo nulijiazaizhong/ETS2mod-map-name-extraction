@@ -14,6 +14,9 @@
 7. 根据你的语言修改`val`字段即可
 8. country和ferry按照此方法重复即可
 
+### 脚本位置
+脚本文件在源代码的`src`文件夹以及Release的`script.7z`中都含有
+
 
 
 # script for extracting mod names from ETS2 map files
@@ -34,5 +37,8 @@ This script is used to extract the mod names from ETS2 map files. It works by se
 6. Open the output file and check its formatting        
 7. Just modify the `val` field according to your language
 8. Country and ferry can be repeated according to this method   
+
+### script position
+The script files are contained in the `src` folder of the source code and in `script.7z` of the Release
 
 
